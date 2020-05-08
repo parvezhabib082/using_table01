@@ -1,0 +1,13 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #aeffda;
+}
+.table-eli{
+	/*height: 700px;
+	width: 1000px;*/
+	/*background-color: red;*/
+	border:1px solid white;
+	text-align: center;
+	margin: 0 auto;
+}
